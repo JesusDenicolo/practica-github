@@ -1,4 +1,9 @@
-# Practica GitHub DAW
+## Autor
+
+Jesus Denicolo
+
+## Fecha
+
+ 30/01/2026
 
 
-Repositorio de prueba para aprender Git y Github en Debian
